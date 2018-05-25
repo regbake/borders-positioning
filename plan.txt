@@ -1,0 +1,3 @@
+Alright, so what's the goal here and what should be getting worked on.
+
+I'd like to figure out some border box things and then... I don't quite know. 

@@ -1,0 +1,17 @@
+body {
+  background-color: cornflowerblue;
+  margin: 0;
+  padding: 0;
+}
+
+.contain {
+  border: solid 1px green;
+  display: flex;
+}
+
+.contain div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin: 10px;
+}
